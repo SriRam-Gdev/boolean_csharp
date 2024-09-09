@@ -13,7 +13,7 @@ switch (product[0])
         type = "Sweat shirt";
         break;
     case "02":
-        type = "T-Shirt";
+        type = "T-Shir";
         break;
     case "03":
         type = "Sweat pants";
