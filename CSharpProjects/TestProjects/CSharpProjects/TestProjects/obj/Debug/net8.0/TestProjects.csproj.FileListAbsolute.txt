@@ -1,0 +1,4 @@
+D:\boolean\CSharpProjects\TestProjects\CSharpProjects\TestProjects\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\boolean\CSharpProjects\TestProjects\CSharpProjects\TestProjects\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.AssemblyInfoInputs.cache
+D:\boolean\CSharpProjects\TestProjects\CSharpProjects\TestProjects\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.AssemblyInfo.cs
+D:\boolean\CSharpProjects\TestProjects\CSharpProjects\TestProjects\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.csproj.CoreCompileInputs.cache
